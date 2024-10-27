@@ -1,0 +1,7 @@
+WEBSITE_BASE_URL = Url to site (e.g: https://test1.floopbox.com)
+WEBSITE_USER_NAME = Username of the site (e.g: Sameesha)
+WEBSITE_PASSWORD = Password of the site (e.g: zennode@123)
+VARIABLE_PRODUCT_1 = Name of the product 1 (Name and name in url must be same) (e.g: bottle)
+VARIABLE_PRODUCT_1_ID = ID of the product 1 (e.g: 11959)
+VARIABLE_PRODUCT_2 = Name of the product 2 (Name and name in url must be same) (e.g: umbrella)
+VARIABLE_PRODUCT_2_ID = ID of the product 2 (e.g: 11967)
